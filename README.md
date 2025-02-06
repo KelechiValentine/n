@@ -1,2 +1,2 @@
-# n
+# note worthy
 i am practicing......
